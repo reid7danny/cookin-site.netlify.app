@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
+  "title": "Let's Get Cookin'",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "A place for beginners and aspiring chefs to hone their craft.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Let's Get Cookin",
+    "description": "Welcome! Listen. Let's be real. This site won't turn you into the next iron chef. But hopefully, we can make sure the next time you make pasta, it isn't still crunchy. Unless that's how you like it, but that's a whole different issue... :)"
   }
 }

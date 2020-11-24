@@ -1,10 +1,10 @@
 ---
 template: BlogPost
-path: /hello-world
-date: 2020-02-20T07:08:53.137Z
-title: Hello World
-thumbnail: ''
-metaDescription: Meta description for Hello World
+path: /about
+date: 2020-11-24T07:08:53.137Z
+title: About
+thumbnail: /assets/cooking1.jpg
+metaDescription: About
 ---
 
 ## Some people might say that good cooking is something that is not relevant in today's current climate.
