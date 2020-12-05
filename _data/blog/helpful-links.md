@@ -3,7 +3,7 @@ template: BlogPost
 path: /helpful-links
 date: 2020-12-08T07:08:53.137Z
 title: Helpful Links
-thumbnail: /assets/best-chefs.jpeg
+thumbnail: /iamges/chefs.jpeg
 metaDescription: Helpful links
 ---
 ## Links
@@ -17,14 +17,14 @@ metaDescription: Helpful links
 
 *Here are several videos from some of the world's best chefs, explaining recipes that are easy and delicious.*
 
-![G](/assets/gordon.jpeg "Gordon")
+![G](/images/gordon.jpeg "Gordon")
 
 1. [Gordon Ramsay's Quick & Simple Recipes](https://www.youtube.com/watch?v=mhDJNfV7hjk)
 
-![R](/assets/rachel-ray.jpeg "Rachel")
+![R](/images/rachel.jpeg "Rachel")
 
 2. [8 Tips/Kitchen Hacks from Rachel Ray](https://www.youtube.com/watch?v=gY7c7Qlpzl0)
 
-![B](/assets/bobby.jpeg "Bobby")
+![B](/images/bobby.jpeg "Bobby")
 
 3. [Bobby Flay's Top 10 Dishes for Brunch](https://www.youtube.com/watch?v=UNfPyh69cDM)
