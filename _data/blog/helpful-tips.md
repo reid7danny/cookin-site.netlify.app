@@ -1,8 +1,9 @@
 ---
 template: BlogPost
 path: /helpful-tips
+date: 2020-12-08T07:08:53.137Z
 title: Helpful Tips
-thumbnail: ''
+thumbnail: /assets/tips.jpeg
 metaDescription: Helpful tips for beginners
 ---
 

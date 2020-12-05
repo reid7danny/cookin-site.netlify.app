@@ -1,6 +1,7 @@
 ---
 template: BlogPost
 path: /helpful-links
+date: 2020-12-08T07:08:53.137Z
 title: Helpful Links
 thumbnail: /assets/best-chefs.jpeg
 metaDescription: Helpful links

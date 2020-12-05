@@ -1,6 +1,7 @@
 ---
 template: BlogPost
 path: /about
+date: 2020-12-8T07:08:53.137Z
 title: About
 thumbnail: /assets/cooking1.jpg
 metaDescription: About
