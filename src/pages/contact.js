@@ -11,11 +11,11 @@ const ContactPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Contact — {site.siteMetadata.title}</title>
-        <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
+        <title>Recipe Submitter — {site.siteMetadata.title}</title>
+        <meta name="description" content={"Recipe Submitter" + site.siteMetadata.description} />
       </Helmet>
-      <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+      <div className="two-grids -Recipe Submitter">
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/cuttingboard.jpeg')`, marginBottom: 0}}>
           <h1 className="post-title">Recipe Submitter</h1>
           <p>Share what you got dude. &rarr;</p>
         </div>
