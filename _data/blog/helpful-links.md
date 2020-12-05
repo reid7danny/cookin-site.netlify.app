@@ -1,7 +1,6 @@
 ---
 template: BlogPost
 path: /helpful-links
-date: 2020-11-24T07:08:53.137Z
 title: Helpful Links
 thumbnail: /assets/best-chefs.jpeg
 metaDescription: Helpful links
@@ -15,7 +14,7 @@ metaDescription: Helpful links
 
 ## Video Links
 
-### Here are several videos from some of the world's best chefs, explaining recipes that are easy and delicious.
+*Here are several videos from some of the world's best chefs, explaining recipes that are easy and delicious.*
 
 ![G](/assets/gordon.jpeg "Gordon")
 
